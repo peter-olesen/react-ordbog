@@ -1,0 +1,63 @@
+[
+    {
+      "id": "1",
+      "Title": "Søgeordsforskning / Keyword Research",
+      "Text": "Processen med at identificere de søgeord, som din målgruppe bruger til at finde information online.",
+      "Date": "15-08-2024"
+    },
+    {
+      "id": "2",
+      "Title": "On-Page Optimering / On-Page Optimization",
+      "Text": "Optimering af elementer på en webside, som titler, meta tags og indhold, for at forbedre dens søgemaskinerangering.",
+      "Date": "15-08-2024"
+    },
+    {
+      "id": "3",
+      "Title": "Meta Beskrivelse / Meta Description",
+      "Text": "En kort beskrivelse af en sides indhold, der vises under titlen i søgemaskineresultaterne.",
+      "Date": "15-08-2024"
+    },
+    {
+      "id": "4",
+      "Title": "Linkbuilding / Backlink Building",
+      "Text": "Skabelse af links fra andre websider til din egen, hvilket kan forbedre din sides autoritet og rangering.",
+      "Date": "15-08-2024"
+    },
+    {
+      "id": "5",
+      "Title": "Søgemaskine Rangering / Search Engine Ranking",
+      "Text": "Den position, din webside har i søgemaskinens resultater for bestemte søgeord.",
+      "Date": "15-08-2024"
+    },
+    {
+      "id": "6",
+      "Title": "Indholdsmarkedsføring / Content Marketing",
+      "Text": "Strategi, der fokuserer på at skabe og dele værdifuldt indhold for at tiltrække og engagere et publikum.",
+      "Date": "15-08-2024"
+    },
+    {
+      "id": "7",
+      "Title": "Hjemmeside Hastighedsoptimering / Site Speed Optimization",
+      "Text": "Forbedring af en websides indlæsningshastighed, hvilket kan påvirke brugeroplevelsen og SEO.",
+      "Date": "15-08-2024"
+    },
+    {
+      "id": "8",
+      "Title": "Mobil-Først Indeksering / Mobile-First Indexing",
+      "Text": "En prioritering af mobilversionen af en webside i søgemaskinens indeks, hvilket påvirker rangeringen.",
+      "Date": "15-08-2024"
+    },
+    {
+      "id": "9",
+      "Title": "Lokal SEO / Local SEO",
+      "Text": "Optimering af din webside til at rangere bedre i lokale søgeresultater, især vigtigt for virksomheder med fysiske lokationer.",
+      "Date": "15-08-2024"
+    },
+    {
+      "id": "10",
+      "Title": "Schema Markup",
+      "Text": "En form for struktureret data, der hjælper søgemaskiner med at forstå indholdet på en webside og forbedre visningen i søgeresultaterne.",
+      "Date": "15-08-2024"
+    }
+  ]
+  
